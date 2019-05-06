@@ -1,3 +1,15 @@
+# Now That's Delicious!
+
+## 說明
+
+本原始碼為 Wes Bos 線上課程 Learn Node 實作網站教材，原始來源：<https://github.com/wesbos/Learn-Node/tree/master/starter-files>。
+
+已略做修改原教材的 package.json 部分套件版本以免編譯發生錯誤。
+
+分隔線以下為原始教材說明內容：
+
+***
+
 ## What is this?
 
 Just you wait folks!
